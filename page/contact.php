@@ -10,7 +10,7 @@
 	<div class="container">
 		<div class="header">
 			<ul class="nav">
-				<li><a href="../home.php">Home</a></li>
+				<li><a href="../index.php">Home</a></li>
 				<li><a href="profile.php">Profile</a></li>
 				<li><a href="#">Contact</a></li>
 			</ul>
