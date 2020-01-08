@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Tugas 02 Cloud Computing</title>
-	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="../css/style.css">
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
 </head>
 <body>
